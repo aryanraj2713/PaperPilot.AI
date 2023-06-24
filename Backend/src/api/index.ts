@@ -3,9 +3,10 @@ import predictRouter from "./predict/router";
 import welcomeRouter from "./welcome/router";
 
 export default (): Router => {
-  const app = Router();
+	const app = Router();
 
-  //TODO: add routes here...
-  app.use("/", welcomeRouter);
-  return app;
+	//TODO: add routes here...
+	app.use("/", welcomeRouter);
+	app.use("/predict", predictRouter);
+	return app;
 };
