@@ -1,10 +1,14 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
-
+import Landing from "./Components/Landing";
+import Error from "./Components/Error";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { createAuth0Client } from "@auth0/auth0-spa-js";
 function App() {
-  return <></>;
+  return (
+    <>
+      <Landing />
+    </>
+  );
 }
 
 export default App;
