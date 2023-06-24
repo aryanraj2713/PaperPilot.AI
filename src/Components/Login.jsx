@@ -15,7 +15,7 @@ function Login() {
     return (
       <div className="w-[100%] h-[100%] flex flex-col items-center justify-center">
         <ClipLoader
-          color={"#8257E5"}
+          color={"#3f51b5"}
           size={70}
           aria-label="Loading Spinner"
           data-testid="loader"
