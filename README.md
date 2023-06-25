@@ -26,7 +26,7 @@ PaperPilot is an innovative research paper recommendation system that leverages 
 
 - AWS Simple Email Service Integration: Leveraging the power of AWS SES, PaperPilot delivers periodic research paper recommendations directly to users' email inboxes. This feature guarantees hassle-free access to the latest developments in their field.
 
-## License and Contribution Guidelines 📜
+## License and Contribution Guidelines 
 
  <div align="left">
  <p>
