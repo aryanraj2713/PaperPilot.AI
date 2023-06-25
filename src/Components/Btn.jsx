@@ -2,9 +2,8 @@ import React, { useState } from "react";
 
 function Btn(props) {
   /*   const [isButtonDisabled, setIsButtonDisabled] = useState(false)*/
-  const selectedColor =
-    "bg-indigo-500 hover:bg-indigo-300 active:bg-indigo-500";
-  const defaultColor = "bg-[#FFFDD0] hover:bg-indigo-200 active:bg-indigo-400";
+  const selectedColor = "bg-[#714CC2] hover:bg-[#714CC2] active:bg-[#633BBC]";
+  const defaultColor = "bg-[#FFFDD0] hover:bg-[#AC97DB] active:bg-[#633BBC]";
   const {
     setSelectedFields,
     selectedFields,

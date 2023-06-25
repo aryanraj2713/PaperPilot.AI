@@ -99,7 +99,7 @@ function Landing() {
               {/* adding logo */}
               <div className="font-racing display flex text-3xl sm:text-3xl lg:text-5xl text-[#D4D4D4]">
                 <img src={Logo} alt="logo" className="pr-4" />
-                Paperpilot.AI
+                Paperpilot
               </div>
 
               {/* add tagline */}
@@ -121,13 +121,13 @@ function Landing() {
             {/* creating flex */}
             <div className="flex h-full w-full  justify-end items-center">
               {/* box1 */}
-              <div className="h-[70vh] w-[20vw] bg-indigo-500 z-10 absolute rounded-l-3xl"></div>
+              <div className="h-[70vh] w-[20vw] bg-[#633BBC] z-10 absolute rounded-l-3xl"></div>
 
               {/* box2 */}
-              <div className="h-[45vh] w-[10vw] bg-indigo-300 z-20 mr-4 sm:mr-4 lg:mr-9 absolute rounded-r-lg"></div>
+              <div className="h-[45vh] w-[10vw] bg-[#714CC2] z-20 mr-4 sm:mr-4 lg:mr-9 absolute rounded-r-lg"></div>
 
               {/* box3 */}
-              <div className="h-[50vh] w-[20vw] bg-indigo-200 z-30 mr-9 sm:mr-9 lg:mr-14 absolute rounded-r-lg"></div>
+              <div className="h-[50vh] w-[20vw] bg-[#AC97DB] z-30 mr-9 sm:mr-9 lg:mr-14 absolute rounded-r-lg"></div>
 
               {/* box main */}
               <div className="h-[60vh] w-[70vw] sm:w-[70vw] md:w-[50vw] lg:w-[30vw] bg-white z-40 mr-14 sm:mr-14 lg:mr-20 absolute rounded-xl">
@@ -150,7 +150,7 @@ function Landing() {
       </div>
 
       {/* footer strip div */}
-      <div className="relative bg-indigo-500 h-[2vh]  hidden sm:hidden md:block"></div>
+      <div className="relative bg-[#8257E5] h-[2vh]  hidden sm:hidden md:block"></div>
     </div>
   );
 }

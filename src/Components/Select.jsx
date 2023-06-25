@@ -11,8 +11,6 @@ function Select(props) {
   const { user, isAuthenticated, isLoading } = useAuth0();
   if (isAuthenticated) {
     console.log(user.email);
-    console.log(user.email);
-    console.log(user.email);
   }
 
   function Fetch() {
@@ -51,7 +49,7 @@ function Select(props) {
         </div>
       </div>
 
-      <div className=" flex flex-col items-center w-[90%] h-[50%] overflow-y-scroll mb-10 scrollbar-thin scrollbar-thumb-indigo-500 scrollbar-thumb-rounded-lg scrollbar-track-rounded-lg scrollbar-track-indigo-200">
+      <div className=" flex flex-col items-center w-[90%] h-[50%] overflow-y-scroll mb-10 scrollbar-thin scrollbar-thumb-[#633BBC] scrollbar-thumb-rounded-lg scrollbar-track-rounded-lg scrollbar-track-[#AC97DB]">
         {props.button.map((el) => {
           return (
             <Btn
@@ -68,7 +66,7 @@ function Select(props) {
 
       <Link to="/final">
         <button
-          className="h-10 w-52 text-xl font-roboto bg-indigo-300 hover:bg-indigo-400 cursor-pointer rounded-md xl border border-x-1 border-y-1 border-solid border-[#16161d] shadow-xl text-white shadow-indigo-500"
+          className="h-10 w-52 text-xl font-roboto bg-[#714CC2] hover:bg-[#8257E5] cursor-pointer rounded-md xl border border-x-1 border-y-1 border-solid border-[#16161d] shadow-xl text-white shadow-[#714CC2]"
           onClick={Fetch}
         >
           Select
