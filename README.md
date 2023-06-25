@@ -37,41 +37,6 @@ While we appreciate the open-source nature of this site, it's important to ackno
 
 So, feel free to fork this repo. Refer to this handy file <strong>Contributing.md</strong> if you're not sure what to do we would. Thanks!
 
-
-## Installation 🔧
-
-1. Client
-
-   Install dependencies
-
-   ```
-   $ npm install
-   ```
-
-   Start the server
-
-   ```
-   $ npm run build
-   $ npm run preview
-   ```
-
-2. Server
-
-   Install Dependencies
-
-   ```
-   $ cd Backend
-   $ yarn
-   ```
-
-   Start the server
-
-   ```
-   $ yarn build
-   $ yarn start
-   ```
-
-
 ## Scope of Improvements 
 
 - Increase dataset size by including papers from additional reputable sources.
