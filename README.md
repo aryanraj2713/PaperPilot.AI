@@ -9,7 +9,8 @@ Research scholars and academics often struggle to keep up with the vast amount o
 # Solution
 PaperPilot is an innovative research paper recommendation system that leverages artificial intelligence to provide personalized recommendations to researchers and scholars. The system aims to streamline the process of discovering relevant research papers and keeping users updated with the latest findings in their field.
 
-<img width="400" alt="image" src="https://github.com/aryanraj2713/PaperPilot.AI/assets/34826479/13da1d19-cbf1-40c9-a100-d4e72e10acab">
+<img width="778" alt="image" src="https://github.com/aryanraj2713/PaperPilot.AI/assets/34826479/a2410e15-9368-4673-8a10-b04d6fc0b6c5">
+
 
 
 
