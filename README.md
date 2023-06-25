@@ -20,7 +20,52 @@ PaperPilot is an innovative research paper recommendation system that leverages 
 
 - AWS Simple Email Service Integration: Leveraging the power of AWS SES, PaperPilot delivers periodic research paper recommendations directly to users' email inboxes. This feature guarantees hassle-free access to the latest developments in their field.
 
+## License and Contribution Guidelines 📜
 
+ <div align="left">
+ <p>
+ <br>
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" height="28"/><br>
+   <br><strong>Paperpilot.ai</strong> is under MIT License, Please Read the <strong>LICENSE</strong>
+  <p>
+ </div>
+While we appreciate the open-source nature of this site, it's important to acknowledge that plagiarism is detrimental. Our team has dedicated significant time and effort to develop, design, and refine this iteration of our website, and we take pride in its creation. We kindly request that you refrain from misrepresenting this work as your own and respect the effort we have put into it.
+
+So, feel free to fork this repo. Refer to this handy file <strong>Contributing.md</strong> if you're not sure what to do we would. Thanks!
+
+
+## Installation 🔧
+
+1. Client
+
+   Install dependencies
+
+   ```
+   $ npm install
+   ```
+
+   Start the server
+
+   ```
+   $ npm run build
+   $ npm run preview
+   ```
+
+2. Server
+
+   Install Dependencies
+
+   ```
+   $ cd Backend
+   $ yarn
+   ```
+
+   Start the server
+
+   ```
+   $ yarn build
+   $ yarn start
+   ```
 
 
 ## Scope of Improvements 
@@ -38,3 +83,21 @@ PaperPilot is an innovative research paper recommendation system that leverages 
 - [Use Paperpilot](https://paper-pilot.vercel.app/)
 - [Demo Video]()
 - [Presentation](https://www.canva.com/design/DAFmzctRwk4/bOn8YqIxvJ5bMKs7Y-7ICQ/edit?utm_content=DAFmzctRwk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Authors of PaperPilot ✍🏼
+
+- [Aryan Raj](https://www.canva.com/design/DAFmzctRwk4/bOn8YqIxvJ5bMKs7Y-7ICQ/edit)
+    - Role: ML & Front-End Developer
+    
+- [Tanmay Agrawal](https://www.linkedin.com/in/tanmayagr/)
+    - Role: Front-End Developer
+    
+- [Mohd Zaid](https://www.linkedin.com/in/mohd-zaid-17713221a/)
+    - Role: MERN Stack Developer
+    
+- [Aakash Rawat](https://www.linkedin.com/in/aakash-rawat-a1a528236/)
+    - Role: Backend Developer
+    
+- [Mathangy K](https://www.linkedin.com/in/mathangy-k/)
+    - Role: ML/DL Developer
+
