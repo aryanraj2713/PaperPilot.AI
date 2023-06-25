@@ -54,7 +54,7 @@ So, feel free to fork this repo. Refer to this handy file <strong>Contributing.m
 - [Demo Video]()
 - [Presentation](https://www.canva.com/design/DAFmzctRwk4/bOn8YqIxvJ5bMKs7Y-7ICQ/edit?utm_content=DAFmzctRwk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Authors of PaperPilot ✍🏼
+## Authors of PaperPilot.ai 
 
 - [Aryan Raj](https://www.canva.com/design/DAFmzctRwk4/bOn8YqIxvJ5bMKs7Y-7ICQ/edit)
     - Role: ML & Front-End Developer
