@@ -1,4 +1,4 @@
-# PaperPilot.ai - Navigate the Skies of Research with PaperPilot.ai
+# Navigate the Skies of Research with PaperPilot.ai
 
 Introducing PaperPilot.ai: The Future of Research Paper Recommendations and Updates. PaperPilot.ai utilizes artificial intelligence and integrated email services to provide personalized recommendations directly to researchers and scholars. By delivering curated lists of relevant research papers, breakthrough discoveries, and articles in their field of study, PaperPilot streamlines the discovery process and keeps users up-to-date with the latest advancements. Experience the convenience of AI-driven recommendations delivered directly to your inbox, revolutionizing the way you stay informed and saving you valuable time. Upgrade your research journey with PaperPilot and unlock endless possibilities for academic exploration.
 
